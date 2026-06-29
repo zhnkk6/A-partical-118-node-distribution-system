@@ -6,12 +6,6 @@ Processed topology, impedance, and load data for a practical 118-node distributi
 
 Processed practical 118-node distribution-system dataset from two feeders in Zhejiang, China, with confidential load and impedance data sanitized for public research use.
 
-## Repository URL
-
-https://github.com/your-account/practical-118-node-distribution-system
-
-Replace `your-account` with the final GitHub owner name after the repository is created.
-
 ## Data Disclosure
 
 The system topology is based on two practical distribution feeders from a city in Zhejiang Province, China. For security and confidentiality, the released load and line-impedance values are processed versions of the original field data rather than direct disclosure of operational measurements.
